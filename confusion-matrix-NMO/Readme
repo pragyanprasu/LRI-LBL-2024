@@ -1,0 +1,35 @@
+First column is for true symmetry (S1, S2,....S14), second column for test symmetry (S14, S13, ...S1), and third column gives the statistical separation between them (\Delta\chi^2).  
+
+
+
+S1 --- B-3L_e
+
+S2 --- L-3L_e
+
+S3 --- B-3/2(L_mu+L_tau)
+
+S4 --- L_e-1/2(L_mu+L_tau)
+
+S5 --- L_e+2L_mu+2L_tau
+
+S6 --- B_y+L_mu+L_tau
+
+S7 --- B-3L_mu
+
+S8 --- L-3L_mu
+
+S9 --- B-3L_tau
+
+S10 --- L-3L_tau
+
+S11 --- L_e-L_mu
+
+S12 --- L_e-L_tau
+
+S13 --- L_mu-L_tau
+
+S14 --- B-L_e-2L_tau
+
+
+
+
