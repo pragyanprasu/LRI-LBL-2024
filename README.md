@@ -1,5 +1,5 @@
 
-This repository contains the Montecarlo data used in the paper titled "A plethora of long-range neutrino interactions probed by DUNE and T2HK" 
+This repository contains the Projected data used in the paper titled "A plethora of long-range neutrino interactions probed by DUNE and T2HK" 
 
 arXiv: 
 
