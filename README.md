@@ -23,7 +23,7 @@ Below are the brief about the content of each folder. For further details, see t
 
    For citing this work, please use the following:
 
-   "link from inspire-hep"
+   "citation details from inspire-hep"
 
    
 
