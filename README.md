@@ -21,7 +21,7 @@ Below are the brief about the content of each folder. For further details, see t
 6. discovery-potential-NMO --- contains data used for the discovery strength of LRI potential. Used in fig. E1 and table E1. 
 
 
-   For citing this work use the following:
+   For citing this work, please use the following:
 
    "link from inspire-hep"
 
