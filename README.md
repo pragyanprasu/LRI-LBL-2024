@@ -4,7 +4,7 @@ This repository contains the Projected data used in the paper titled "A plethora
 arXiv: 
 
 
-Our work discusses the possibility of constraining and discovering the long-range interaction (LRI) arising from a plethora of U(1)' symmetries. 
+Our work discusses the prospects of constraining and discovering the long-range interaction (LRI) arising from a plethora of U(1)' symmetries. It also discusses the novel prospect of distinguishing between LRI symmetries. 
 
 Below are the brief about the content of each folder. For further details, see the Readme file inside each folder
 
