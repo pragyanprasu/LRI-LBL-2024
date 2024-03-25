@@ -4,19 +4,19 @@ This repository contains the numerical results presented in the paper titled *A 
 
 Our work discusses the prospects of constraining and discovering the long-range neutrino interactions with electrons, neutrons, and protons, that arise from a variety of U(1)' symmetries.  It also discusses the novel prospect of experimentally distinguishing between these symmetries. 
 
-The results are organized in folders, which we describe below.  For details, see the Readme file inside each folder.
+The results are organized in folders, which we describe below.  We indicate which in figures and tables in our paper the data were used.  For details, see the Readme file inside each folder.
 
-1. `confusion-matrix-NMO`  Contains data used to draw the confusion matrices that give the statistical separation between the true and test LRI symmetry contrasted pair-wise. Used in fog. 10.
+1. `confusion-matrix-NMO`: Contains the data used to draw the confusion matrices that give the statistical separation between true and test candidate symmetries pair-wise, assuming normal neutrino mass ordering (NMO). Used to make Fig. 10.
   
-2. `constraints-mass-coupling-plane-NMO` Contains data used to put upper limits on the new gauge boson mass vs. coupling plane. Used in fig. 7.
+2. `constraints-mass-coupling-plane-NMO`: Contains the upper limits on the coupling strength vs. mediator mass, for our symmetries, assuming normal mass ordering. Used to make Fig. 7.
 
-3. `constraints-potential-IMO` Contains data used to put upper limit on the LRI potential arising from various U(1)' symmetries considered. Data are for inverted neutrino mass ordering. Used in figs. D2 & D3, and table D1.
+3. `constraints-potential-IMO`: Contains the upper limits on the new matter potential for our candidate symmetries, assuming inverted neutrino mass ordering (IMO). Used to make Figs. D2 & D3, and Table D1.
 
-4. `constraints-potential-NMO` contains data used to put upper limit on the LRI potential arising from various U(1)' symmetries considered. Data are for normal neutrino mass ordering. Used in figs. 5, 6, and D1, and table D1.
+4. `constraints-potential-NMO`: Contains the upper limits on the new matter potential for our candidate symmetries, assuming normal neutrino mass ordering.  Used to make Figs. 5, 6, and D1, and Table D1.
 
-5. `discovery-mass-coupling-plane-NMO` Contains data used to show our discovery prospects at 5 sigma C.L.. Neutrino mass ordering is assumed to be normal. Used in fig. 8. 
+5. `discovery-mass-coupling-plane-NMO` Contains the discovery prospects (5sigma) on the coupling strength vs. mediator mass for our candidate symmetries, assuming normal neutrino mass ordering. Used to make Fig. 8. 
 
-6. `discovery-potential-NMO` Contains data used for the discovery strength of LRI potential. Used in fig. E1 and table E1. 
+6. `discovery-potential-NMO` Contains the discovery prospects (5sigma) of the new matter potential for our candidate symmetries, assuming normal neutrino mass ordering. Used to make Fig. E1 and Table E1. 
 
 ## Citing
 
