@@ -1,5 +1,5 @@
-Contents: Used DUNE, T2HK, DUNE+T2HK files to generate the constraints. 
-Format in text files: V_{LRI}, Delta chi^2
+Contents: Used DUNE, T2HK, and DUNE+T2HK files to generate the constraints on long-range interaction potential. 
+Format in text files: V_{LRI} in eV, Delta chi^2
 Created: 2024-03-28 [Pragyanprasu Swain]
 Last updated 2024-03-28 [Pragyanprasu Swain]
 
