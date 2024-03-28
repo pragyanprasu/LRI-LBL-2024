@@ -1,4 +1,7 @@
-While reading the data files please consider the following:
+Contents: Used DUNE, T2HK, and DUNE+T2HK files to generate the constraints on long-range interaction potential, V_{LRI}. 
+Format in text files: V_{LRI} in eV, Delta chi^2
+Created: 2024-03-28 [Pragyanprasu Swain]
+Last updated 2024-03-28 [Pragyanprasu Swain]
 
 The S1...S14 correspond to symmetries labeled against them.
 
