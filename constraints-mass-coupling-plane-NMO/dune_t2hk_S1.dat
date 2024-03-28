@@ -1,9 +1,3 @@
-#used DUNE+T2HK to generate the following constraints
-# Symmetry: B- 3L_e 
-# Format: log10(m_Z'/eV), log10(G') 
-# Created: 2024-03-25 [Pragyanprasu Swain]
-# Last updated 2024-03-25 [Pragyanprasu Swain]
-
 -35.	-29.5645997295
 -34.79859684260259	-29.562505136663066
 -34.75	-29.5619997295
