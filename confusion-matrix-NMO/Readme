@@ -1,3 +1,7 @@
+# Format: symmetry i, symmetry j, Delta chi^2
+# Created: 2024-03-28 [Pragyanprasu Swain]
+# Last updated 2024-03-28 [Pragyanprasu Swain]
+
 First column is for true symmetry (S1, S2,....S14), second column for test symmetry (S14, S13, ...S1), and third column gives the statistical separation between them (\Delta\chi^2).  
 
 
