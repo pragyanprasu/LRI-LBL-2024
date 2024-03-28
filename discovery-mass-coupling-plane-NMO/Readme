@@ -1,5 +1,4 @@
-While reading the data files please consider the following:
-
+Format: log10(m_Z'/eV), log10(G') 
 The S1...S14 correspond to symmetries labeled against them.
 
 
