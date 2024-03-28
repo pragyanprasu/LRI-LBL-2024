@@ -1,3 +1,8 @@
+#This is generated for V_{LRI} = 6*10^{-14} eV
+# Format: symmetry i, symmetry j, Delta chi^2
+# Created: 2024-03-28 [Pragyanprasu Swain]
+# Last updated 2024-03-28 [Pragyanprasu Swain]
+
 1	14	176.429
 1	13	176.429
 1	12	90.1934
