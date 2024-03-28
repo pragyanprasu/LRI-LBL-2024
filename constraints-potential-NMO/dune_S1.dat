@@ -1,3 +1,10 @@
+#used DUNE to generate the following constraints
+# Symmetry: B-3L_e 
+# Format: V_{LRI} (eV), Delta chi^2
+# Created: 2024-03-28 [Pragyanprasu Swain]
+# Last updated 2024-03-28 [Pragyanprasu Swain]
+
+
 3e-16 0.000742585
 3.36606e-16 0.000934799
 3.77679e-16 0.00117676
