@@ -1,4 +1,7 @@
-While reading the data files please consider the following:
+#used DUNE+T2HK to generate the following constraints
+# Format: log10(m_Z'/eV), log10(G') 
+# Created: 2024-03-25 [Pragyanprasu Swain]
+# Last updated 2024-03-25 [Pragyanprasu Swain]
 
 The S1...S14 correspond to symmetries labeled against them.
 
