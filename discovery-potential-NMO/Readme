@@ -1,0 +1,34 @@
+While reading the data files please consider the following:
+
+The S1...S14 correspond to symmetries labeled against them.
+
+
+
+S1 --- B-3L_e
+
+S2 --- L-3L_e
+
+S3 --- B-3/2(L_mu+L_tau)
+
+S4 --- L_e-1/2(L_mu+L_tau)
+
+S5 --- L_e+2L_mu+2L_tau
+
+S6 --- B_y+L_mu+L_tau
+
+S7 --- B-3L_mu
+
+S8 --- L-3L_mu
+
+S9 --- B-3L_tau
+
+S10 --- L-3L_tau
+
+S11 --- L_e-L_mu
+
+S12 --- L_e-L_tau
+
+S13 --- L_mu-L_tau
+
+S14 --- B-L_e-2L_tau
+
