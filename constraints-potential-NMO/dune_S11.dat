@@ -1,3 +1,9 @@
+#used DUNE to generate the following constraints
+# Symmetry: B-3/2(L_mu+L_tau) 
+# Format: V_{LRI} (eV), Delta chi^2
+# Created: 2024-03-28 [Pragyanprasu Swain]
+# Last updated 2024-03-28 [Pragyanprasu Swain]
+
 1e-16 0.000338084
 1.12202e-16 0.000425648
 1.25893e-16 0.000535894
