@@ -1,7 +1,9 @@
+Contents: Used DUNE+T2HK files to generate the discovery potential. 
 Format: log10(m_Z'/eV), log10(G') 
+Created: 2024-03-28 [Pragyanprasu Swain]
+Last updated 2024-03-28 [Pragyanprasu Swain]
+
 The S1...S14 correspond to symmetries labeled against them.
-
-
 
 S1 --- B-3L_e
 
