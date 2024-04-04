@@ -2,7 +2,7 @@
 
 This repository contains the numerical results presented in the paper titled *A plethora of long-range neutrino interactions probed by DUNE and T2HK* ([arXiv:2404.02775](https://arxiv.org/abs/2404.02775)).
 
-Our work discusses the prospects of constraining and discovering the long-range neutrino interactions with electrons, neutrons, and protons, that arise from a variety of U(1)' symmetries.  It also discusses the novel prospect of experimentally distinguishing between these symmetries. 
+Our work discusses the prospects of constraining and discovering the long-range neutrino interactions with electrons, neutrons, and protons, that arise from a variety of U(1)' symmetries in the context of next-generation long-baseline neutrino oscillation experiments - DUNE and T2HK. It also discusses the novel prospect of experimentally distinguishing between these symmetries. 
 
 The results are organized in folders, which we describe below.  We indicate which in figures and tables in our paper the data were used.  For details, see the Readme file inside each folder.
 
