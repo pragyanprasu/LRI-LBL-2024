@@ -22,7 +22,7 @@ The results are organized in folders, which we describe below.  We indicate whic
 
 If you use these data in your work, please cite the following paper: Sanjib Kumar Agarwalla, Mauricio Bustamante, Masoom Singh, Pragyanprasu Swain, *A plethora of long-range neutrino interactions probed by DUNE and T2HK* ([arXiv:2404.02775](https://arxiv.org/abs/2404.02775)).
 
-If you are citing this paper in a document that will be uploaded to the arXiv, please consider using the LaTeX or BibTeX entries provided by INSPIRE ([link here](http://XXX)):
+If you are citing this paper in a document that will be uploaded to the arXiv, please consider using the LaTeX or BibTeX entries provided by INSPIRE ([link here](https://inspirehep.net/literature/2773782), click on "cite").
 
 
    
