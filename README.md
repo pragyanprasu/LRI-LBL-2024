@@ -1,6 +1,6 @@
 # LRI-LBL-2024
 
-This repository contains the numerical results presented in the paper titled *A plethora of long-range neutrino interactions probed by DUNE and T2HK* ([arXiv:2403.02775](https://arxiv.org/abs/2403.02775)).
+This repository contains the numerical results presented in the paper titled *A plethora of long-range neutrino interactions probed by DUNE and T2HK* ([arXiv:2404.02775](https://arxiv.org/abs/2404.02775)).
 
 Our work discusses the prospects of constraining and discovering the long-range neutrino interactions with electrons, neutrons, and protons, that arise from a variety of U(1)' symmetries.  It also discusses the novel prospect of experimentally distinguishing between these symmetries. 
 
